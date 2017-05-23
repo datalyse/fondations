@@ -4,7 +4,7 @@
 
   - La technologie doit être un moyen d'améliorer la qualité de vie de tous. 
   - La technologie et le savoir doivent être des ressources communes de l'humanité. 
-  - La gestion de la technologie et du savoir doivent être gérés selon les principes des communs.
+  - La gestion de la technologie et du savoir doivent reposer sur des principes des communs.
 
 ## Mission
 
